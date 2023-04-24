@@ -1,4 +1,4 @@
-# Packman_Game
+# Packman Game
 
 ## Packman Game in Flutter
 
@@ -25,3 +25,10 @@ In the famous arcade game Packman, the player controls a character named Packman
 4. Run the game using the below command:
   `flutter run`
 5. **Done!** Here you go with the game.
+
+## Screenshots
+<div style="display: flex; justify-content: space-between;">
+  <img width="200" height="400" alt="New-Game" src="https://user-images.githubusercontent.com/97979413/234108189-2b24cfb2-0151-4145-a1d0-91c01f2c424e.jpg"> 
+  <img width="200" height="400" alt="Gaming" src="https://user-images.githubusercontent.com/97979413/234108213-eeac3665-6b5a-468f-8375-70a586d2d5ad.jpg"> 
+  <img width="200" height="400" alt="Game-over" src="https://user-images.githubusercontent.com/97979413/234108250-eaf2440d-eb88-4b64-b460-af0e7bc64f33.jpg">
+</div>
